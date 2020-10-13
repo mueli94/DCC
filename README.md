@@ -14,7 +14,7 @@ save it in the folder: DCC/data
 
 3: Download and install the following libraries:
 
-Python:
+Python3:
 
 - os
 - sys
@@ -23,7 +23,7 @@ Python:
 - multiprocessing
 - coreapi
 
-R:
+R 3.6:
 - shiny
 - shinyjs
 - shinyalert
