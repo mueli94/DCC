@@ -8,7 +8,9 @@ Required files:
 - Protein sequences in Fasta format
 - Species information Text format
 
-2: run /scripts/createDic.py
+save it in the folder: DCC/data
+
+2: move into the folder script and run createDic.py
 
 3: Download and install the following libraries:
 
